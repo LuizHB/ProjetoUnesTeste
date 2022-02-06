@@ -1,2 +1,2 @@
 # ProjetoUnesTeste
-HTML test for a website with a "fake" university named UNES
+HTML test for a "fake" university's website named UNES
